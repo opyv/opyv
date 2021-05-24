@@ -5,9 +5,10 @@
 <a href="https://pypi.python.org/pypi/opyv">
 <img src="https://img.shields.io/pypi/v/opyv.svg" alt = "Release Status">
 </a>
-<a href="https://github.com/bluginbuhl/opyv/actions">
+<!-- uncomment once a release version is done -->
+<!-- <a href="https://github.com/bluginbuhl/opyv/actions">
 <img src="https://github.com/bluginbuhl/opyv/actions/workflows/main.yml/badge.svg?branch=release" alt="CI Status">
-</a>
+</a> -->
 <a href="https://opyv.readthedocs.io/en/latest/?badge=latest">
 <img src="https://readthedocs.org/projects/opyv/badge/?version=latest" alt="Documentation Status">
 </a>
