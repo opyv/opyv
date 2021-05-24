@@ -1,4 +1,4 @@
-# [OPyV](https://opyv.org)
+# <a href="https://opyv.org" target="_blank">OPyV</a>
 
 [![pypi](https://img.shields.io/pypi/v/opyv.svg)](https://pypi.org/project/cookiecutter/)
 [![python](https://img.shields.io/pypi/pyversions/opyv.svg)](https://pypi.org/project/opyv/)
@@ -13,9 +13,9 @@ A Python library for working with organic photovoltaic materials and device data
 
 ---
 
-Documentation: <https://bluginbuhl.github.io/opyv>
+<a href="https://bluginbuhl.github.io/opyv" target="_blank">Documentation</a>
 
-Project Website: <https://opyv.org>
+<a href="https://opyv.org" target="_blank">Project Website</a>
 
 ## Features
 
