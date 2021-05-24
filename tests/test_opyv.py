@@ -3,6 +3,7 @@
 # pylint: disable=redefined-outer-name
 
 import pytest
+from opyv.opyv import say_hello
 
 
 @pytest.fixture
@@ -20,3 +21,8 @@ def test_content(response):
     # from bs4 import BeautifulSoup
     # assert 'GitHub' in BeautifulSoup(response.content).title.string
     del response
+
+
+def test_say_hello():
+    name = "Steve"
+    assert say_hello(name) == "Hello, Steve!"

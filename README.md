@@ -9,6 +9,9 @@
 <!-- <a href="https://github.com/bluginbuhl/opyv/actions">
 <img src="https://github.com/bluginbuhl/opyv/actions/workflows/main.yml/badge.svg?branch=release" alt="CI Status">
 </a> -->
+<a href="https://codecov.io/gh/bluginbuhl/opyv">
+  <img src="https://codecov.io/gh/bluginbuhl/opyv/branch/main/graph/badge.svg?token=3W7WQW2MTL"/>
+</a>
 <a href="https://opyv.readthedocs.io/en/latest/?badge=latest">
 <img src="https://readthedocs.org/projects/opyv/badge/?version=latest" alt="Documentation Status">
 </a>

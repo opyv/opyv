@@ -44,6 +44,11 @@ jobs:
       - name: list files
         run: ls -l .
 
+      - name: "Upload coverage to Codecov"
+        uses: codecov/codecov-action@v1
+        with:
+          fail_ci_if_error: true
+
   publish_dev_build:
     # if test failed, we should not publish
     needs: test
