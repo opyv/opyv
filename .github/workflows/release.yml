@@ -1,6 +1,6 @@
 # Publish package on release branch if it's tagged with 'v*'
 
-name: release & publish workflow
+name: release
 
 # Controls when the action will run.
 on:
@@ -80,7 +80,7 @@ jobs:
           draft: false
           prerelease: false
 
-      - name:
+      - name: pypa release
         uses: pypa/gh-action-pypi-publish@release/v1
         with:
           user: __token__

@@ -11,7 +11,7 @@
   <a href="https://codecov.io/gh/bluginbuhl/opyv">
     <img src="https://codecov.io/gh/bluginbuhl/opyv/branch/main/graph/badge.svg?token=3W7WQW2MTL"/>
   </a>
-  <a href="https://opyv.readthedocs.io/en/latest/?badge=latest">
+  <a href="https://bluginbuhl.github.io/opyv/?badge=latest">
     <img src="https://readthedocs.org/projects/opyv/badge/?version=latest" alt="Documentation Status">
   </a>
 </p>
