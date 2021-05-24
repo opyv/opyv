@@ -1,7 +1,7 @@
 [tool]
 [tool.poetry]
 name = "opyv"
-version = "0.1.1"
+version = "0.1.2"
 homepage = "https://github.com/bluginbuhl/opyv"
 description = "Python library for working with organic photovoltaic materials and device data."
 authors = ["Benjamin R. Luginbuhl <bluginbuhl@gmail.com>"]
