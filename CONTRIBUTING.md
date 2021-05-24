@@ -99,9 +99,12 @@ Before you submit a pull request, check that it meets these guidelines:
    https://github.com/bluginbuhl/opyv/actions
    and make sure that the tests pass for all supported Python versions.
 
-## Tips```
+## Tips
+
+```
     $ pytest tests.test_opyv
-```To run a subset of tests.
+```
+To run a subset of tests.
 
 
 ## Deploying
@@ -111,9 +114,9 @@ Make sure all your changes are committed (including an entry in HISTORY.md).
 Then run:
 
 ```
-$ poetry patch # possible: major / minor / patch
+$ poetry version patch # possible: major / minor / patch
 $ git push
 $ git push --tags
 ```
 
-Travis will then deploy to PyPI if tests pass.
+Github Actions will then deploy to PyPI if tests pass.
